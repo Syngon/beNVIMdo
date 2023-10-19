@@ -1,0 +1,2 @@
+# beNVIMdo
+nvim for begginers
